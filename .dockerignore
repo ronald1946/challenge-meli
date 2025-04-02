@@ -1,0 +1,12 @@
+#Ignorar archivos entorno virtual
+.env
+/env
+
+#Ignorar archivo de docker
+Dockerfile
+.dockerignore
+
+#Ignorar archivos de Git
+.gitignore
+.git
+
